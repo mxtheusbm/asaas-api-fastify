@@ -1,0 +1,7 @@
+export const SANDBOX_KEY = 
+  '$aact_YTU5YTE0M2M2N2I4MTliNzk0YTI5N2U5MzdjNWZmNDQ6OjAwMDAwMDAwMDAwMDAwNzk2MjM6OiRhYWNoXzg5YzNhYjAwLWRjY2EtNDI4NS05Y2VmLTQ2M2U5ZTAyNTdmZA=='
+export const PROD_KEY = 
+  '$aact_YTU5YTE0M2M2N2I4MTliNzk0YTI5N2U5MzdjNWZmNDQ6OjAwMDAwMDAwMDAwMDA0MDkwNjM6OiRhYWNoX2I4YzhmZTUyLTBiODktNDk2ZS05OTU4LWIyZTc0ZTRiMDFjMw=='
+
+export const SANDBOX_URL = 'https://sandbox.asaas.com/api'
+export const PROD_URL = 'https://api.asaas.com'
